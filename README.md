@@ -1,0 +1,1 @@
+Python implementation of the exercises available in the Introduction to Statistical Learning textbook, available on: http://faculty.marshall.usc.edu/gareth-james/
